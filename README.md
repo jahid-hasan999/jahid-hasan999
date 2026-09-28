@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Jahid Hasan - Full Stack Developer" width="100%" />
+</p>
+
 # 👋 Hi, I'm Jahid Hasan
 
 ### 🚀 Aspiring Full-Stack Developer
